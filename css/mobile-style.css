@@ -1,0 +1,200 @@
+@media only screen and (max-width: 767px) {
+    header .navbar-brand {
+        padding-left: 1rem;
+    }
+
+    header .row .col-md-7 h1 {
+        font-size: 2.5em;
+    }
+
+    header .row .col-md-7 h6 {
+        font-size: 0.9em;
+    }
+
+    header .row .col-md-7 p,
+    header .row .col-md-7 button {
+        font-size: 0.8em;
+    }
+
+    header .row .col-md-7 {
+        padding: 5em 1em 4em;
+    }
+
+    header .row .col-md-5 img {
+        padding-bottom: 2em;
+        width: 60%;
+    }
+
+    .section-1 .row .col-md-6 .panel {
+        position: initial;
+        width: initial;
+        height: initial;
+    }
+
+    .section-2 .cover {
+        background-position: -450px -280px;
+    }
+
+    .numbers .rect {
+        width: 10rem;
+        height: 8rem;
+    }
+
+    .numbers .rect h1 {
+        font-size: 2rem;
+    }
+
+    .section-3 {
+        height: inherit;
+        padding: 10vmin !important;
+    }
+
+    .section-3 .row h1 {
+        padding: 6vmin 4vmin;
+        font-size: 2.5em;
+    }
+
+    .section-3 .row p {
+        font-size: 1em;
+    }
+
+    .section-3 .row .col-md-6 {
+        text-align: center !important;
+    }
+
+    footer .col-sm-12 {
+        margin-top: 2em;
+    }
+
+}
+
+@media only screen and (min-width: 768px) {
+
+    header .navbar-brand {
+        padding-left: 3rem;
+    }
+
+    header a {
+        font-size: 0.7em;
+    }
+
+    header .nav-item:last-child {
+        padding-right: 3em;
+    }
+
+    header .row .col-md-7 {
+        padding: 5em 1em 6em;
+    }
+
+    header .row .col-md-7>h1 {
+        font-size: 3em;
+
+    }
+
+    header .row .col-md-7 h6 {
+        font-size: 0.9em;
+    }
+
+    header .row .col-md-7 p,
+    header .row .col-md-7 button {
+        font-size: 0.8em;
+    }
+
+    header .row .col-md-5 img {
+        padding-top: 3em;
+    }
+
+    .section-1 .row .col-md-6 .pray {
+        width: 110%;
+    }
+
+    .section-1 .row .col-md-6 .panel {
+        top: 28px;
+        padding: 1em 2em;
+    }
+
+    .section-3 .row h1 {
+        font-size: 3em;
+    }
+
+    .section-3 .row p {
+        font-size: 1.2em;
+    }
+}
+
+@media only screen and (min-width: 1024px) {
+
+    header a {
+        font-size: 0.8em;
+    }
+
+    .section-1 .row .col-md-6 .pray {
+        width: 100%;
+    }
+
+    .section-1 .row .col-md-6 .panel {
+        padding: 4em 3em;
+    }
+
+    header .row .col-md-7 h1 {
+        font-size: 3.5em;
+    }
+
+    header .row .col-md-7 h6 {
+        font-size: 0.9em;
+    }
+
+    header .row .col-md-7 p,
+    header .row .col-md-7 button {
+        font-size: 0.9em;
+    }
+
+    header .row .col-md-7 {
+        padding: 7em 1em 9em;
+    }
+
+    header .row .col-md-5 img {
+        padding-top: 3em;
+    }
+
+    .section-1 .row .col-md-6 .panel {
+        top: 45px;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+
+    header .navbar-brand {
+        padding-left: 4rem;
+    }
+
+    header .nav-item:last-child {
+        padding-right: 4em;
+    }
+
+    header .row .col-md-7 h1 {
+        font-size: 4.1em;
+    }
+
+    header .row .col-md-7 h6 {
+        font-size: 1.2em;
+    }
+
+    header .row .col-md-7 p,
+    header .row .col-md-7 button {
+        font-size: 0.9em;
+    }
+
+    header .row .col-md-7 {
+        padding: 7em 1em 13em;
+    }
+
+    header .row .col-md-5 img {
+        padding-top: 3em;
+    }
+
+    .section-1 .row .col-md-6 .panel {
+        padding: 7em 3em;
+        top: 55px;
+    }
+}
